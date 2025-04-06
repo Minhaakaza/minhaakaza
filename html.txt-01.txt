@@ -79,7 +79,7 @@
     <h1>Apartamentos de São Paulo</h1>
   </header>
   <section>
-    <img src="/mnt/data/IMG-20250305-WA0030.jpg" alt="Apartamentos de São Paulo">
+ <alt="Apartamentos de São Paulo">
     <p class="preco">A partir de R$220 mil</p>
     <p class="chamada">Unidades com entrada facilitada e parcelas que cabem no seu bolso!</p>
     <ul>
