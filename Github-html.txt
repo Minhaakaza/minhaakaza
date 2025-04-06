@@ -82,7 +82,7 @@
     <p class="preco">A partir de R$270 mil</p>
     <p class="chamada">Unidades com entrada facilitada e parcelas que cabem no seu bolso!</p>
     <ul>
-      <li>1 ou 2 Dormitórios - 37m², 41m², 43m² e 56m² </li>
+      <li>1 ou 2 Dormitórios - 37m², 41m², 43m² e 56m² (suíte)</li>
       <li>Vaga de garagem e sacada gourmet</li>
       <li>Em frente ao Jardim Botânico de São Paulo</li>
       <li>Entrada facilitada</li>
